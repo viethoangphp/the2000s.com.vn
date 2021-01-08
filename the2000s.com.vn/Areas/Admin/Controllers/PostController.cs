@@ -13,5 +13,13 @@ namespace the2000s.com.vn.Areas.Admin.Controllers
         {
             return View();
         }
+        public ActionResult Add()
+        {
+            return View();
+        }
+        public ActionResult Cat()
+        {
+            return View();
+        }
     }
 }
